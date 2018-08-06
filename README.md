@@ -1,5 +1,5 @@
 # asprise-demo
-‘asprise ocr distinguish’
+`asprise ocr distinguish`
 
 ### maven repository
 ```
